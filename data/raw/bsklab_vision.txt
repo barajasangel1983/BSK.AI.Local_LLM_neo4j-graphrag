@@ -1,0 +1,3 @@
+BSKlab.ai is an internal AI lab for experimenting with local LLM stacks.
+The goal is to build a local-first LLM platform with a React portal, Django API, and GraphRAG backend.
+We use Grok (xAI) and local models, plus Chroma and Neo4j for retrieval.

@@ -1,0 +1,100 @@
+
+José Ángel Barajas Flores
+USA Citizen
+
+
+Address
+Sparks, Nevada, 89436
+
+Senior Manufacturing Operations Leader, EE, MBA, MNA
+ Automotive, Aerospace and Consumer – Generative AI / Operational Excellence
+
+SUMMARY
+
+Multidisciplinary Engineering Leader with 20+ years of global experience in automotive, aerospace and food manufacturing. Proven success in scaling manufacturing operations, driving Lean/Six Sigma optimization projects, and implementing AI-powered cost and process optimization systems. Passionate about automation, innovation, and high-performance team building. Currently leading capacity planning, digital factory, optimization projects and digital transformation initiatives for Mars Inc. while completing a Master’s in Applied Artificial Intelligence. Known for bridging the gap between engineering execution and strategic operations across highly regulated and fast-paced environments.
+
+CORE COMPETENCIES 
+•	Manufacturing: Automation of General Assembly and Testing, Injection Molding, Welding, Robotics (Fanuc, Denso, Nachi), Additive Manufacturing, 
+•	Automotive IATF, AIAG; Aerospace AS9100; Food ISO 22000:2018
+•	Controls & Automation: PLCs (Allen-Bradley, Siemens, Omron), basic ignition.
+•	Software: SAP, Siemens TIA, SolidWorks, AutoCAD, Power BI, SQL, Python, JIRA, Minitab
+•	Methodologies: Lean Kaizen, Six Sigma Black Belt, TPM
+•	Project Management: PMP certified, CAPEX, VA/VE, Budget Control
+•	Leadership: Team Building, Regional Coaching, TPM Champion, Technical development 
+ 
+LATEST ACCOMPLISHMENTS.
+•	2025: Enrolled in Master’s in Applied Artificial Intelligence at ITESM.
+•	2024–2025: Leading Mars Supply Excellence and Digital Factory deployment at Mars Reno; $4M+ in saving projects, CAPEX budget owner, integration of IE/CI and training teams.
+•	2024: At Terran Orbital, contributed as production engineering manager to the construction of ADACs components for three low orbit satellite builds and Xenon propulsion system integration.
+•	2023–2024: Led the Tesla Drive Unit Production Engineering team for Rotor and Final Assembly, became responsible for the full DU Production Engineering operation with, leading also the Stator and Inverter PE teams; kicked off the first gen of Lean Sigma projects targeting over $10M, reduced scrap 12.3%.
+•	2019–2023: At MAHLE, led the build and launch of 10+ new product manufacturing lines, tooling, and assembly process for engine components for Nissan, BMW, Chrysler. Relocated and relaunch 5 production lines to Mexico, led the setup and launch of HVAC Injection Molding and assembly production lines from plants in Ohio and South Carolina to Tennessee
+PROFESSIONAL EXPERIENCE.
+
+
+Mars Inc
+Industrial Engineering and Supply Excellence Manager - (2024 August – Current)
+•	Own site-level capacity planning and resource optimization across manufacturing operations
+•	Develop capacity models, labor standards, and cycle time analysis to support production planning and demand variability
+•	Identify system bottlenecks and implement throughput improvement initiatives across extrusion and packaging lines
+•	Lead cross-functional initiatives with Engineering, Production, Quality, and Supply Chain to improve operational performance
+•	Drive Lean transformation including Kaizen events, 6S deployment, and structured problem-solving (RCA)
+•	Establish KPIs and visual management systems to track OEE, yield, and throughput performance
+•	Lead site Strategic Improvement Plan delivering $4M+ in cost savings
+•	Support digital factory and data-driven decision-making initiatives
+
+Terran Orbital
+Production Engineering Manager - (2024 May – 2024 August)
+•	Supported manufacturing operations for low-volume, high-complexity satellite systems (ADACS and propulsion)
+•	Partnered with Engineering and Production to ensure manufacturability and production readiness
+•	Contributed to scaling production processes from engineering builds to repeatable manufacturing systems
+•	Supported capacity and workflow alignment in a high-mix, low-volume aerospace environment
+•	Drove cross-functional coordination between Engineering, Quality, and Manufacturing teams
+
+GF1 Drive Unit - Tesla
+Production Engineering Manager - (2023 April – 2024 May) 
+
+•	Led throughput optimization and bottleneck reduction across drive unit assembly lines
+•	Developed labor models and line balancing strategies for multi-line operations
+•	Drove yield improvement and scrap reduction (12.3%) through structured problem solving and Six Sigma
+•	Led cross-functional CI initiatives impacting production, quality, and engineering
+ 
+MAHLE Filter Systems, Murfreesboro, TN, USA.
+Engineering and Maintenance Manager - (2020 - 2023) 
+●	Development, Launch and Installation of 10+ new production lines and product acquisitions for Toyota, Honda, Nissan, and Mercedes lines. Relocation of five production lines to Mx.
+●	Plant capacity owner. Capacity and utilization optimization of Injection Molding shop involving 55 Injection Molding Machines and 750+ Molds.
+●	PM of multiple automation capital projects adding automation (Kawasaki and Fanuc)
+●	Multiple Lean / Sigma projects and Sprint events champion 
+●	Implemented MES and traceability systems to support production scaling
+OPEX - Advanced Manufacturing and I4.0  Leader - (2016 - 2020)
+●	Manufacturing process development for new products using MAHLE Manufacturing Optimization Process and promoting the MAHLE Production System
+●	Assembly and testing technology development for high-speed automation. 
+●	Development of assembly lines for Intake Manifolds, Head Covers and AFM.
+●	Responsible for Leading Kaizen Events and Continuous Improvement workshops in the MAHLE locations in North America leading Regional Cost optimization initiatives. (Blitz, Sprint, SMED and MOPs)
+●	Responsible for Manufacturing Industry 4.0 MES and traceability implementation. 
+●	Development of manufacturing process data acquisition and traceability for Injection Molding, Welding, Assembly and Final Testing. 
+●	Global interaction with technology development teams and development of testing technology with R&D and Nissan testing team from Kawagoe, Japan.
+ 
+Senior Manufacturing / Controls Engineer (2010 -2016)
+●	Responsible for Process Engineering of Nissan Intake Manifolds. Increasing OEE and output, reducing 30% of Labor Cost and 60% Scrap from Launch.
+●	Leader or multiple capital projects and retooling for Efficiency increase.
+●	Controls expert for Siemens Step 7 and Allen Bradley SLC500
+●	MAHLE Murfreesboro Plant manager award 2014
+
+
+United Plastic Group, Nuevo Leon, Mex.
+Manufacturing Operations Supervisor (2009-2010)
+
+Denso México, Nuevo León, Mex.
+Maintenance Team Leader Advanced (2004-2009)
+
+
+EDUCATION & CERTIFICATIONS
+
+●	Master of Applied Artificial Intelligence (In Progress) ITESM
+●	MBA - Finance, ITESM
+●	B.S. Mechanical & Electrical Engineering, UANL
+●	Lean Kaizen Black Belt, Lean Kaikaku Black Belt, UANL
+●	Leadership Training, ICAMI, MAHLE, TecMilenio
+•	Master in Mechatronics (incomplete) UANL
+•	Multiple Automation Technical courses for testing, welding, lasers, vision, etc
+
