@@ -1,0 +1,20 @@
+# Environment variables — never commit secrets
+.env
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# RAG data — raw documents and vector index are local only
+data/raw/
+data/chroma_index/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

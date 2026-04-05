@@ -1,4 +1,0 @@
-Large language models (LLMs) are neural networks trained on large text corpora.
-They can be used for chat, summarization, and code generation.
-RAG (Retrieval-Augmented Generation) improves answers by adding relevant context from external documents.
-
