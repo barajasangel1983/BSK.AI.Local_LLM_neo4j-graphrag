@@ -81,10 +81,17 @@ def build_chunks() -> List[Chunk]:
   return chunks
 
 
-def ingest_chunks(collection_name: str = "bsk_rag") -> int:
+def ingest_chunks(
+  collection_name: str = "bsk_rag",
+  owner_user_id: str = "admin",
+  visibility: str = "private",
+) -> int:
   """Ingest all chunks into a persistent Chroma collection.
 
   Returns the number of chunks ingested.
+
+  `owner_user_id` and `visibility` are stored in metadata for future
+  per-user and visibility-aware retrieval, but not yet enforced.
   """
 
   CHROMA_DIR.mkdir(parents=True, exist_ok=True)
@@ -103,6 +110,8 @@ def ingest_chunks(collection_name: str = "bsk_rag") -> int:
       "document_path": str(c.document_path),
       "source": c.document_path.name,
       "chunk_id": c.id,
+      "owner_user_id": owner_user_id,
+      "visibility": visibility,
     }
     for c in chunks
   ]
@@ -112,11 +121,18 @@ def ingest_chunks(collection_name: str = "bsk_rag") -> int:
   return len(chunks)
 
 
-def ingest_files(paths: list[str], collection_name: str = "bsk_rag") -> int:
+def ingest_files(
+  paths: list[str],
+  collection_name: str = "bsk_rag",
+  owner_user_id: str = "admin",
+  visibility: str = "private",
+) -> int:
   """Ingest only the given file paths into the Chroma collection.
 
   - Skips non-existent files and non-.txt files.
   - Uses the same chunking + metadata schema as ingest_chunks.
+  - Records `owner_user_id` and `visibility` in metadata for future
+    per-user and sharing-aware retrieval.
   """
 
   CHROMA_DIR.mkdir(parents=True, exist_ok=True)
@@ -148,6 +164,8 @@ def ingest_files(paths: list[str], collection_name: str = "bsk_rag") -> int:
       "document_path": str(c.document_path),
       "source": c.document_path.name,
       "chunk_id": c.id,
+      "owner_user_id": owner_user_id,
+      "visibility": visibility,
     }
     for c in chunks
   ]
