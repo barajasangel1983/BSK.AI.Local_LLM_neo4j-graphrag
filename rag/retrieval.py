@@ -31,8 +31,15 @@ def get_collection(collection_name: str = "bsk_rag"):
   return client.get_or_create_collection(name=collection_name)
 
 
-def query_chunks(query: str, top_k: int = DEFAULT_TOP_K, collection_name: str = "bsk_rag") -> List[RetrievedChunk]:
+def query_chunks(
+  query: str,
+  top_k: int = DEFAULT_TOP_K,
+  collection_name: str = "bsk_rag",
+  where: dict | None = None,
+) -> List[RetrievedChunk]:
   """Retrieve top_k most relevant chunks for a query.
+
+  Optionally restrict search via a Chroma `where` filter on metadata.
 
   Returns a list of RetrievedChunk objects suitable for building RAG
   prompts and UI source citations.
@@ -43,7 +50,10 @@ def query_chunks(query: str, top_k: int = DEFAULT_TOP_K, collection_name: str = 
   if not query.strip():
     return []
 
-  result = collection.query(query_texts=[query], n_results=top_k)
+  if where:
+    result = collection.query(query_texts=[query], n_results=top_k, where=where)
+  else:
+    result = collection.query(query_texts=[query], n_results=top_k)
 
   # Chroma returns dict with keys: ids, documents, metadatas, distances/similarities
   ids = result.get("ids", [[]])[0]
